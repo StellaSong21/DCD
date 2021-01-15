@@ -1,0 +1,6 @@
+Vivado Simulator 2015.4
+Time resolution is 1 ps
+                   0  0000 = 0xx
+                  50  1100 = 101
+                 100  0010 = 110
+$finish called at time : 150 ns : File "D:/song/LAB/Vivado/lab_encoder/lab_encoder.srcs/sim_1/new/test_encoder.v" Line 37
