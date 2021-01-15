@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/song/LAB/Vivado/lab_VEM/lab_VEM.srcs/sources_1/new/display.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module display
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/song/LAB/Vivado/lab_VEM/lab_VEM.srcs/sources_1/new/paid.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module paid
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/song/LAB/Vivado/lab_VEM/lab_VEM.srcs/sources_1/new/compDone.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module compDone
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/song/LAB/Vivado/lab_VEM/lab_VEM.srcs/sources_1/new/VEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module VEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/song/LAB/Vivado/lab_VEM/lab_VEM.srcs/sim_1/new/test_VEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_VEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/song/LAB/Vivado/lab_VEM/lab_VEM.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
