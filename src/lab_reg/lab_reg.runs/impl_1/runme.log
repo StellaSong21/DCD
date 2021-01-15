@@ -1,0 +1,20 @@
+
+*** Running vivado
+    with args -log main.vdi -applog -m64 -messageDb vivado.pb -mode batch -source main.tcl -notrace
+
+
+****** Vivado v2015.4 (64-bit)
+  **** SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+  **** IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+    ** Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+
+source main.tcl -notrace
+
+*** Halting run - EA reset detected ***
+
+
+
+    while executing
+"start_step init_design"
+    (file "main.tcl" line 48)
+INFO: [Common 17-206] Exiting Vivado at Sun Nov 03 18:45:06 2019...
